@@ -34,6 +34,10 @@ The deployment code includes scripts and instructions for deploying the trained 
 - The CICIDS2017 dataset was provided by the Canadian Institute for Cybersecurity (CIC).
 
 ---
-![Images](https://github.com/Vigneshpalan/Deep-Neural-Fuzzy-Model-for-intrusion-detection/blob/main/f1.png)
+![Images](https://github.com/Vigneshpalan/Deep-Neural-Fuzzy-Model-for-intrusion-detection/blob/main/loss.png)
+
+![Images](https://github.com/Vigneshpalan/Deep-Neural-Fuzzy-Model-for-intrusion-detection/blob/main/acc.png)
+
+![Images](https://github.com/Vigneshpalan/Deep-Neural-Fuzzy-Model-for-intrusion-detection/blob/main/clas.png)
 
 Feel free to customize this template according to your specific project details and requirements!
