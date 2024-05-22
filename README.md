@@ -38,6 +38,6 @@ The deployment code includes scripts and instructions for deploying the trained 
 
 ![Images](https://github.com/Vigneshpalan/Deep-Neural-Fuzzy-Model-for-intrusion-detection/blob/main/acc.png)
 
-![Images](https://github.com/Vigneshpalan/Deep-Neural-Fuzzy-Model-for-intrusion-detection/blob/main/clas.png)
+
 
 Feel free to customize this template according to your specific project details and requirements!
