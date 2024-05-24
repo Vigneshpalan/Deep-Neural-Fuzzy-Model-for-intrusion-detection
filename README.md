@@ -39,4 +39,3 @@ The deployment code includes scripts and instructions for deploying the trained 
 
 
 
-Feel free to customize this template according to your specific project details and requirements!
